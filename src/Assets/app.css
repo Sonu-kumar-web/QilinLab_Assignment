@@ -1,8 +1,10 @@
+
 .container{
     height: 15vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 15%;
 }
 
 .tab{
@@ -13,4 +15,13 @@
     justify-content: center;
     align-items: center;
     margin-left: 0.5%;
+}
+.arrow{
+    cursor: pointer;
+}
+
+.tabName{
+    width: 80%;
+    display: flex;
+    justify-content: center;
 }
